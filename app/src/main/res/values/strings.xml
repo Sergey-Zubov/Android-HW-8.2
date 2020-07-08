@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android-HW-8.2</string>
+    <string name="activity_main_name">Локализация</string>
+    <string name="btn_ok">ОК</string>
+    <string name="text_view_text">\tЕсли мобильное приложение выходит на международный рынок,
+        ему нужна локализация под разные языки.\n\tСоздайте страницу со следующими элементами:\n\n
+        \u2022 Spinner со списком языков - Русский и Английский.\n
+        \u2022 Кнопка ОК. По клику на данную кнопку - во всем приложении переключается язык.\n
+        \u2022 Добавьте текст на странице для отображения на английском и русском.
+    </string>
+    <string-array name="spinner_loc_array">
+        Русский
+        Английский
+    </string-array>
+</resources>
