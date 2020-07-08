@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Android-HW-8.2</string>
+    <string name="app_name" translatable="false">Android-HW-8.2</string>
     <string name="activity_main_name">Локализация</string>
     <string name="btn_ok">ОК</string>
     <string name="text_view_text">\tЕсли мобильное приложение выходит на международный рынок,
@@ -9,7 +10,7 @@
         \u2022 Добавьте текст на странице для отображения на английском и русском.
     </string>
     <string-array name="spinner_loc_array">
-        Русский
-        Английский
+        <item>Русский</item>
+        <item>English</item>
     </string-array>
 </resources>

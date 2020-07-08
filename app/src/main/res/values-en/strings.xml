@@ -9,8 +9,4 @@
         \u2022 OK button. Click on this button to switch the language throughout the app.\n
         \u2022 Add text on the page to display in English and Russian.
     </string>
-    <string-array name="spinner_loc_array">
-        Russian
-        English
-    </string-array>
 </resources>
